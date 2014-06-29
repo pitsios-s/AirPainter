@@ -1,7 +1,7 @@
 AirPainter
 ==========
 
-A virtual air painter project, developed using c++ and opencv 2.4.9.
+A virtual air painter project, developed using C++ and OpenCV 2.4.9.
 
 This project was developed for the purposes of the course 'Human Computer Interaction' of cs department, Athens University of Economics and Business, during the Winter semester 2013 - 2014.
 
